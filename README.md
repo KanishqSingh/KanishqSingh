@@ -2,7 +2,7 @@
 
 <h1>Kanishq Singh</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&width=435&lines=Hello+Fellas!+I'm+Kanishq+Singh" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&width=435&lines=Hello+Fellas!+Welcome+to+My+Profile" alt="Typing SVG" /></a>
 
 <!--
 **KanishqSingh/KanishqSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
