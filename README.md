@@ -8,7 +8,7 @@
 <h6>- 🌱 I’m currently learning Mern Stack....</h6>
 <h6>- 💬 Ask me about <b>React, MySQL, Operating System ,DSA</b></h6>
 <h6>- 📫 How to reach me singhkanishq06@gmail.com</h6>
-<h6>- 👨‍💻 All of my coursework details are available at <a href="kanishq-portfolio.vercel.app"
+<h6>- 👨‍💻 All of my coursework details are available at <a href="https://vercel.com/kanishqs-projects-e5c91ada/kanishq-portfolio"
 >Kanishq.profile</a></h6>
 
 
