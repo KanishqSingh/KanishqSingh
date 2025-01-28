@@ -17,24 +17,33 @@
         <thead>
             <tr>
                 <th>Programming Language</th>
-                <th>Description</th>
+                <th>Website</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Python</td>
-                <td>A versatile, high-level programming language known for its readability.</td>
+                <td>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" />
+                </td>
+                <td>
+                    <a href="https://www.python.org" target="_blank">Visit Python Website</a>
+                </td>
             </tr>
             <tr>
-                <td>JavaScript</td>
-                <td>The language of the web, used for front-end and back-end development.</td>
+                <td>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" />
+                </td>
+                <td>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">Visit JavaScript Website</a>
+                </td>
             </tr>
             <tr>
-                <td>Java</td>
-                <td>A robust, object-oriented language widely used in enterprise applications.</td>
+                <td>
+                    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="50" />
+                </td>
+                <td>
+                    <a href="https://www.oracle.com/java/" target="_blank">Visit Java Website</a>
+                </td>
             </tr>
         </tbody>
     </table>
-
-
-
