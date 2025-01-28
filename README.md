@@ -23,7 +23,7 @@
         </thead>
         <tbody>
             <tr>
-                <!-- Libraries & Frameworks -->
+               
                 <td style="border: 2px solid black; padding: 10px;">
                     <a href="https://expressjs.com/" target="_blank">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express Logo" style="width: 75px; height: auto;">
@@ -46,7 +46,7 @@
                     <br>Node.js
                 </td>
 
-                <!-- Databases -->
+                
                 <td style="border: 2px solid black; padding: 10px;">
                     <a href="https://www.oracle.com/database/" target="_blank">
                         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_logo.svg/2560px-Oracle_logo.svg.png" alt="Oracle Logo" style="width: 75px; height: auto;">
@@ -59,7 +59,7 @@
                     <br>MongoDB
                 </td>
 
-                <!-- Other Tools -->
+              
                 <td style="border: 2px solid black; padding: 10px;">
                     <a href="https://www.figma.com/" target="_blank">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma Logo" style="width: 75px; height: auto;">
