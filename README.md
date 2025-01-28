@@ -14,12 +14,7 @@
 <br/>
 <h1>My Tech Stack</h1>
  <table border="1">
-<!--         <thead>
-<!--             <tr>
-                <th>Programming Language</th>
-                <th>Website</th>
-            </tr> -->
-        </thead> -->
+
         <tbody>
             <tr>
                 <td>
