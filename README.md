@@ -17,5 +17,6 @@
  <h1>Programming Language</h1>
  <tr>
   <img src="https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png" />
+  <img src="https://images.javatpoint.com/core/images/java-logo1.png" />
  </tr>
 </table>
