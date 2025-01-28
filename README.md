@@ -13,10 +13,22 @@
 
 <br/>
 <h1>My Tech Stack</h1>
-<table>
- <h1>Programming Language</h1>
- <tr>
-  <img src="https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png" />
-  <img src="https://images.javatpoint.com/core/images/java-logo1.png" />
- </tr>
-</table>
+ <table style="border: 2px solid black; border-collapse: collapse; width: 100%; text-align: center;">
+        <tr>
+            <td style="border: 2px solid black; padding: 10px;">
+                <a href="https://www.python.org" target="_blank">
+                    <img src="https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png" alt="Python Logo" style="width: 100px; height: auto;">
+                </a>
+            </td>
+            <td style="border: 2px solid black; padding: 10px;">
+                <a href="https://www.oracle.com/java/" target="_blank">
+                    <img src="https://images.javatpoint.com/core/images/java-logo1.png" alt="Java Logo" style="width: 100px; height: auto;">
+                </a>
+            </td>
+            <td style="border: 2px solid black; padding: 10px;">
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="width: 100px; height: auto;">
+                </a>
+            </td>
+        </tr>
+    </table>
