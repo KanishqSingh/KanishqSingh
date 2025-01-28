@@ -12,7 +12,8 @@
 >Kanishq.profile</a></h6>
 
 <br/>
-<h1 style="text-align: center;">Programming Language</h1>
+<h1 style="text-align: center;">My Tech Stack</h1>
+<h6>Programming Languages </h6>
     <table style="border: 2px solid black; border-collapse: collapse; width: 100%; text-align: center;">
         <tr>
             <td style="border: 2px solid black; padding: 10px;">
