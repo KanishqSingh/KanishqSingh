@@ -16,8 +16,8 @@
  <table style="border: 2px solid black; border-collapse: collapse; width: 100%; text-align: center;">
         <tr>
             <td style="border: 2px solid black; padding: 10px;">
-                <a href="https://www.python.org" target="_blank">
-                    <img src="https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png" alt="Python Logo" style="width: 100px; height: auto;">
+                <a href="[https://www.python.org](https://www.geeksforgeeks.org/c-programming-language/)" target="_blank">
+                    <img src="[https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png](https://w7.pngwing.com/pngs/83/294/png-transparent-computer-icons-c-computer-programming-26-miscellaneous-text-rectangle-thumbnail.png)" alt="Python Logo" style="width: 100px; height: auto;">
                 </a>
             </td>
             <td style="border: 2px solid black; padding: 10px;">
