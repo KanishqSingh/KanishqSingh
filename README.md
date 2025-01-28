@@ -13,21 +13,21 @@
 
 <br/>
 <h1>My Tech Stack</h1>
- <table style="border: 2px solid black; border-collapse: collapse; width: 100%; text-align: center;">
+<table style="border: 2px solid black; border-collapse: collapse; width: 100%; text-align: center;">
         <tr>
             <td style="border: 2px solid black; padding: 10px;">
                 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" style="width: 100px; height: auto;">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" style="width: 75px; height: auto;">
                 </a>
             </td>
             <td style="border: 2px solid black; padding: 10px;">
                 <a href="https://www.oracle.com/java/" target="_blank">
-                    <img src="https://images.javatpoint.com/core/images/java-logo1.png" alt="Java Logo" style="width: 100px; height: auto;">
+                    <img src="https://images.javatpoint.com/core/images/java-logo1.png" alt="Java Logo" style="width: 75px; height: auto;">
                 </a>
             </td>
             <td style="border: 2px solid black; padding: 10px;">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="width: 100px; height: auto;">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="width: 75px; height: auto;">
                 </a>
             </td>
         </tr>
