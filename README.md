@@ -14,36 +14,30 @@
 <br/>
 <h1>My Tech Stack</h1>
  <table border="1">
-        <thead>
-            <tr>
+<!--         <thead>
+<!--             <tr>
                 <th>Programming Language</th>
                 <th>Website</th>
-            </tr>
-        </thead>
+            </tr> -->
+        </thead> -->
         <tbody>
             <tr>
                 <td>
                     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" />
                 </td>
-                <td>
-                    <a href="https://www.python.org" target="_blank">Visit Python Website</a>
-                </td>
+  
             </tr>
             <tr>
                 <td>
                     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" />
                 </td>
-                <td>
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">Visit JavaScript Website</a>
-                </td>
+            
             </tr>
             <tr>
                 <td>
                     <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="50" />
                 </td>
-                <td>
-                    <a href="https://www.oracle.com/java/" target="_blank">Visit Java Website</a>
-                </td>
+          
             </tr>
         </tbody>
     </table>
