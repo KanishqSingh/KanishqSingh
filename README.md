@@ -1,6 +1,26 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KanishqSingh.KanishqSingh" />
 
-<h1>Kanishq Singh</h1>
+ <h1 style="font-size: 3rem; margin-right: 20px; text-shadow: 2px 2px 5px #00c2cb;">Kanishq Singh</h1>
+    <div style="position: relative; display: flex; justify-content: center; align-items: center;">
+        <img 
+            src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_Astronaut.svg" 
+            alt="Astronaut" 
+            style="width: 100px; animation: float 3s infinite ease-in-out;">
+    </div>
+
+    <style>
+        @keyframes float {
+            0% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-20px);
+            }
+            100% {
+                transform: translateY(0);
+            }
+        }
+    </style>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&width=435&lines=Hello+Fellas!+Welcome+to+My+Profile" alt="Typing SVG" /></a>
 
