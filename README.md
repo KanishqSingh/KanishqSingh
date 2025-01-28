@@ -13,26 +13,9 @@
 
 <br/>
 <h1>My Tech Stack</h1>
- <table border="1">
-
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" />
-                </td>
-  
-            </tr>
-            <tr>
-                <td>
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" />
-                </td>
-            
-            </tr>
-            <tr>
-                <td>
-                    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="50" />
-                </td>
-          
-            </tr>
-        </tbody>
-    </table>
+<table>
+ <h1>Programming Language</h1>
+ <tr>
+  <img src="https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png" />
+ </tr>
+</table>
