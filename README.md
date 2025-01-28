@@ -11,5 +11,8 @@
 <h6>- 👨‍💻 All of my coursework details are available at <a href="https://kanishq-portfolio.vercel.app"
 >Kanishq.profile</a></h6>
 
+<br/>
+<h1>My Tech Stack</h1>
+
 
 
