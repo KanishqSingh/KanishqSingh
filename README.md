@@ -13,6 +13,28 @@
 
 <br/>
 <h1>My Tech Stack</h1>
+ <table border="1">
+        <thead>
+            <tr>
+                <th>Programming Language</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Python</td>
+                <td>A versatile, high-level programming language known for its readability.</td>
+            </tr>
+            <tr>
+                <td>JavaScript</td>
+                <td>The language of the web, used for front-end and back-end development.</td>
+            </tr>
+            <tr>
+                <td>Java</td>
+                <td>A robust, object-oriented language widely used in enterprise applications.</td>
+            </tr>
+        </tbody>
+    </table>
 
 
 
