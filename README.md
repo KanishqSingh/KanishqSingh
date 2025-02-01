@@ -16,22 +16,25 @@
 <br/>
 <h1 style="text-align: center;">My Tech Stack</h1>
 <h6>Programming Languages </h6>
-    <table style="border: 2px solid black; border-collapse: collapse; width: 100%; text-align: center;">
+    <table style="border-collapse: collapse; width: 100%;">
         <tr>
-            <td style="border: 2px solid black; padding: 10px;">
-                <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" style="width: 75px; height: auto;">
-                </a>
+            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightblue;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Java_logo_icon.png" style="width: 50px; height: 50px; margin-right: 10px;">
+                Java
             </td>
-            <td style="border: 2px solid black; padding: 10px;">
-                <a href="https://www.oracle.com/java/" target="_blank">
-                    <img src="https://images.javatpoint.com/core/images/java-logo1.png" alt="Java Logo" style="width: 75px; height: auto;">
-                </a>
+            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightyellow;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Python-logo-notext.svg" style="width: 50px; height: 50px; margin-right: 10px;">
+                Python
             </td>
-            <td style="border: 2px solid black; padding: 10px;">
-                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="width: 75px; height: auto;">
-                </a>
+        </tr>
+        <tr>
+            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightgreen;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/C_Logo.png" style="width: 50px; height: 50px; margin-right: 10px;">
+                C
+            </td>
+            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightblue;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Swift-logo.svg" style="width: 50px; height: 50px; margin-right: 10px;">
+                Swift
             </td>
         </tr>
     </table>
