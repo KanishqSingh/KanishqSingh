@@ -16,26 +16,18 @@
 <br/>
 <h1 style="text-align: center;">My Tech Stack</h1>
 <h6>Programming Languages </h6>
-    <table style="border-collapse: collapse; width: 100%;">
-        <tr>
-            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightblue;">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Java_logo_icon.png" style="width: 50px; height: 50px; margin-right: 10px;">
-                Java
-            </td>
-            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightyellow;">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Python-logo-notext.svg" style="width: 50px; height: 50px; margin-right: 10px;">
-                Python
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightgreen;">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/C_Logo.png" style="width: 50px; height: 50px; margin-right: 10px;">
-                C
-            </td>
-            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightblue;">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Swift-logo.svg" style="width: 50px; height: 50px; margin-right: 10px;">
-                Swift
-            </td>
-        </tr>
-    </table>
-
+   <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
