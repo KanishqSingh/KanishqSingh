@@ -16,18 +16,42 @@
 <br/>
 <h1 style="text-align: center;">My Tech Stack</h1>
 <h6>Programming Languages </h6>
-   <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+ <table style="border-collapse: collapse; width: 100%;">
+        <tr>
+            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightblue;">
+                <div align="left">
+                    <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Java logo" />
+                </div>
+            </td>
+            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightyellow;">
+                <div align="left">
+                    <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=306998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Python logo" />
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightgreen;">
+                <div align="left">
+                    <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="C logo" />
+                </div>
+            </td>
+            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightblue;">
+                <div align="left">
+                    <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="JavaScript logo" />
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightyellow;">
+                <div align="left">
+                    <img src="https://img.shields.io/static/v1?message=Ruby&logo=ruby&label=&color=CC0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Ruby logo" />
+                </div>
+            </td>
+            <td style="border: 2px solid black; padding: 10px; text-align: left; vertical-align: middle; background-color: lightgreen;">
+                <div align="left">
+                    <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=4F5B93&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="PHP logo" />
+                </div>
+            </td>
+        </tr>
+    </table>
+
