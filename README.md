@@ -5,6 +5,7 @@
    
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&width=435&lines=Hello+Fellas!+Welcome+to+My+Profile" alt="Typing SVG" /></a>
+<img src="https://raw.githubusercontent.com/Ayon-SSP/Ayon-SSP/main/Profile2/coverImg.gif" />
 
 
 <h6>- 🌱 I’m currently learning <b>MERN Stack</b> & <b>Java DSA</b></h6>
