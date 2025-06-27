@@ -45,11 +45,7 @@
   <img src="https://img.shields.io/static/v1?message=Github&logo=Github&label=&color=EFB036&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanishqSingh&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishqSingh&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishqSingh&layout=compact&theme=radical" />
-</p>
+
 
 
 
