@@ -4,6 +4,19 @@
     
   <img src="https://github.com/KanishqSingh/KanishqSingh/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" /> 
 
+<div align="center">
+  
+  <br><br>
+<!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
+  <a href="https://www.linkedin.com/in/connect-to-kanishq/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username kanishq" /></a>
+<a href="https://kanishq-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of kanishq" /></a>
+<a href="https://medium.com/@jadaunkanishq"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=0A0209" alt="medium profile of kanishq" /></a>
+<a href="mailto:singhkanishq06@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of kanishq" /></a>
+</div>
+<br>
+
+  
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&width=435&lines=Coder+by+day+,+Batman+by+Night" alt="Typing SVG" /></a>
 <img src="https://github.com/KanishqSingh/KanishqSingh/blob/main/coverImg.gif" />
 
