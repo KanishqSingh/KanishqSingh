@@ -8,11 +8,11 @@
 <img src="https://github.com/KanishqSingh/KanishqSingh/blob/main/coverImg.gif" />
 
 
-<h6>- 🌱 I’m currently learning <b>MERN Stack</b> & <b>Java DSA</b></h6>
-<h6>- 💬 Ask me about <b>React, MySQL, Operating System ,DSA</b></h6>
-<h6>- 📫 How to reach me singhkanishq06@gmail.com</h6>
-<h6>- 👨‍💻 All of my coursework details are available at <a href="https://kanishq-portfolio.vercel.app"
->Kanishq.profile</a></h6>
+<h4>- 🌱 I’m currently learning <b>MERN Stack</b> & <b>Java DSA</b></h4>
+<h4>- 💬 Ask me about <b>React, MySQL, Operating System ,DSA</b></h4>
+<h4>- 📫 How to reach me singhkanishq06@gmail.com</h4>
+<h4>- 👨‍💻 All of my coursework details are available at <a href="https://kanishq-portfolio.vercel.app"
+>Kanishq.profile</a></h4>
 
 <br/>
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> 
