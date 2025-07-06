@@ -4,9 +4,9 @@
     
   <img src="https://github.com/KanishqSingh/KanishqSingh/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" /> 
 
-<div align="center">
+<div align="center" margin="20%">
   
-  <br><br>
+  <br>
 <!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
   <a href="https://www.linkedin.com/in/connect-to-kanishq/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username kanishq" /></a>
 <a href="https://kanishq-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of kanishq" /></a>
