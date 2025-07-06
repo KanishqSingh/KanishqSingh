@@ -1,6 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KanishqSingh.KanishqSingh" />
 
- <h1 >Coder By Day , Batman by Night /h1>
+ <h1 >Coder By Day , Batman by Night </h1>
+
+ </br>
+ </br>
     
   <img src="https://github.com/KanishqSingh/KanishqSingh/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" /> 
 
