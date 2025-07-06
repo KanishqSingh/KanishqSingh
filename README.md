@@ -2,7 +2,7 @@
 
  </br>
     
-  <img src="https://github.com/KanishqSingh/KanishqSingh/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" /> 
+  <img src="https://github.com/KanishqSingh/KanishqSingh/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(1).png" /> 
 
 <div align="center" margin="20%">
   
