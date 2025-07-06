@@ -2,7 +2,7 @@
 
  <h1 >Kanishq Singh</h1>
     
-   
+  <img src="https://github.com/KanishqSingh/KanishqSingh/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" /> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&width=435&lines=Hello+Fellas!+Welcome+to+My+Profile" alt="Typing SVG" /></a>
 <img src="https://github.com/KanishqSingh/KanishqSingh/blob/main/coverImg.gif" />
