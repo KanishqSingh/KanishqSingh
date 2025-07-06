@@ -1,13 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KanishqSingh.KanishqSingh" />
 
- <h1 >Coder By Day , Batman by Night </h1>
-
- </br>
  </br>
     
   <img src="https://github.com/KanishqSingh/KanishqSingh/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" /> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&width=435&lines=Hello+Fellas!+Welcome+to+My+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&width=435&lines=Coder + By + Day + Batman + by + Night" alt="Typing SVG" /></a>
 <img src="https://github.com/KanishqSingh/KanishqSingh/blob/main/coverImg.gif" />
 
 
